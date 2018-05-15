@@ -9,6 +9,6 @@ Compare linear probing and double hashing collision handling methods.
 ### Lab3 Sorting
 Compare MergeSort and QuickSort algorithms on random, ascending and descending datasets.
 
-### Lab3 Searching
+### Lab4 Searching
 A Implementation of breath first search algorithm.  
 Future modifications: use mutable string datatype to prevent memory shortage in large search graphs.
